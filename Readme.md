@@ -12,13 +12,13 @@
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/y0geshsharma/spring-boot-websocket-chat-demo.git
+git clone https://github.com/y0geshsharma/springapp.git
 ```
 
 **2. Build and run the app using maven**
 
 ```bash
-cd spring-boot-websocket-chat-demo
+cd springapp
 mvn package
 java -jar target/websocket-demo-0.0.1-SNAPSHOT.jar
 ```
